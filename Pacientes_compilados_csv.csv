@@ -1,4 +1,4 @@
-N paciente;Data de inicio de sintomas;Data de confirmacao; Idade; Sexo; Bairro;Cidade;Viagem; Comorbidades;Internacao; Morte;Trabalha em Hospital
+N paciente;Data de inicio de sintomas;data_confirm; Idade; Sexo; Bairro;Cidade;Viagem; Comorbidades;Internacao; Morte;Trabalha em Hospital
 1;13/03/2020;;47;;Ipanema;RJ;;N;S;;N
 2;17/03/2020;19/03/2020;39;F;Jardim Brasília;Resende;N;N;N;;N
 3;18/03/2020;;38;F;Jardim Jalisco;Resende;;N;N;;N
