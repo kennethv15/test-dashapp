@@ -1,0 +1,20 @@
+N° paciente;Data de inicio de sintomas;Data de confirmacao; Idade; Sexo; Bairro;Cidade;CURA
+1000;22/03/2020;15/04/2020;41;F;Morada da Colina;Resende;S
+1001;20/03/2020;17/04/2020;59;F;Vila Isabel;Resende;S
+1002;19/03/2020;17/04/2020;34;F;Vila Isabel;Resende;S
+1003;19/03/2020;17/04/2020;26;F;Campos Elíseos;Resende;S
+1004;19/03/2020;17/04/2020;36;F;Vila Julieta;Resende;S
+1005;25/03/2020;17/04/2020;26;F;Centro;Resende;S
+1006;27/03/2020;17/04/2020;36;M;Cabral;Resende;S
+1007;28/03/2020;17/04/2020;57;F;Liberdade;Resende;S
+1008;03/04/2020;17/04/2020;62;F;Surubi;Resende;S
+1009;17/04/2020;20/04/2020;47;M;Jardim Tropical;Resende;S
+1010;28/04/2020;30/04/2020;46;F;Novo Surubi;Resende;
+1011;17/04/2020;30/04/2020;61;M;Jardim do Oeste;Resende;
+1012;27/03/2020;20/04/2020;37;M;Paraíso;Resende;
+1013;08/04/2020;24/04/2020;62;F;Vila Julieta;Resende;
+1014;06/04/2020;24/04/2020;9;F;Jardim Esperança;Resende;
+1015;13/04/2020;24/04/2020;97;F;Vila Moderna;Resende;
+1016;12/04/2020;24/04/2020;21;F;Paraíso;Resende;
+1017;17/04/2020;23/04/2020;40;M;Morada da Colina;Resende;
+;;;;;;;

@@ -1,0 +1,58 @@
+﻿Dt notif;Unid Saúde;Id.;Sexo;Bairro;início ;Observação;Classificacao;Evolução
+;;;;;sint.;;;
+15/abr;Lab. Diagnose;41;F;Morada da Colina;22/mar;Teste rápido sorológico IGG positivo. Apresentou tosse e ;CONFIRMADO;CURA
+;;;;;;roquidão após retorno de viagem aos EUA e contactante do marido ;;
+17/abr;Lab. Municipal ;59;F; Vila Isabel;20/mar;Teste rápido sorológico IGM/IGG ;CONFIRMADO;CURA
+;Arcílio ;;;;;positivo. Contactante caso positivo que evoluiu a óbito. PCR Positivo;;
+;Guimarães;;;;;;;
+17/abr;Lab. Municipal ;34;F; Vila Isabel;19/mar;Teste rápido sorológico IGM/IGG ;CONFIRMADO;CURA
+;Arcílio ;;;;;positivo. Contactante caso positivo que evoluiu a óbito. PCR Positivo;;
+;Guimarães;;;;;;;
+17/abr;Lab. Municipal Arcílio ;26;F;Campos Elíseos;19/mar;Teste rápido sorológico IGM/IGG positivo. Contactante caso positivo ;CONFIRMADO;CURA
+;Guimarães;;;;;que evoluiu a óbito. PCR Positivo;;
+17/abr;Lab. Municipal Arcílio ;36;F;Vila Julieta;19/mar;Teste rápido sorológico IGM/IGG positivo. Contactante caso  PCR ;CONFIRMADO;CURA
+17/abr;Lab. Municipal Guimarães;26;F; Centro.;25/mar;Teste rápido sorológico IGM/IGG Positivo.;CONFIRMADO;CURA
+;Arcílio ;;;;;positivo. Não referiu contato com ;;
+;Guimarães;;;;;pessoa gripada;;
+17/abr;Lab. Municipal ;36;M;Cabral;27/mar;Teste rápido sorológico IGM/IGG positivo.Referiu contato com pessoa gripada. Trabalha no Rio;CONFIRMADO;CURA
+;Arcílio ;;;;;;;
+;Guimarães;;;;;;;
+17/abr;Lab. Municipal ;57;F;Liberdade;28/mar;Teste rápido sorológico IGM/IGG positivo. Contactante caso com PCR positivo.;CONFIRMADO;CURA
+;Arcílio ;;;;;;;
+;Guimarães;;;;;;;
+17/abr;Lab. Municipal ;62;F;Surubi ;03/abr;Teste rápido sorológico IGM/IGG positivo.É diarista em 4 residências. Informou que nenhuma pessoa estava gripada. ;CONFIRMADO;CURA
+;Arcílio ;;;;;;;
+;Guimarães;;;;;;;
+20/abr;Lab. Diagnose;47;M;Jardim Tropical;17/abr;Teste rápido sorológico IGM/IGG positivo.;CONFIRMADO;CURA
+27/abr;Lab. Municipal Arcílio ;76;F;campos elisios;02/abr;Teste rápido sorológico IGM/IGG positivo.;CONFIRMADO;CURA
+08/abr;Lab. Municipal Arcílio ;45;F;Santo Amaro;05/abr;Teste rápido sorológico IGM/IGG positivo.;CONFIRMADO;CURA
+22/abr;Lab. Municipal Arcílio ;48;F;Morada da Barra;11/abr;Teste rápido sorológico anitcorpos totais positivo;CONFIRMADO;CURA
+21/abr;Lab. Municipal Arcílio ;45;M;Cidade Alegria;18/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+25/abr;Lab. Municipal Arcílio ;22;M;AMAN;23/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+24/abr;Lab. Municipal Arcílio ;19;M;AMAN;24/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+15/abr;Lab. Municipal Arcílio ;47;M;Santa Isabel;12/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+23/abr;Lab. Municipal Arcílio ;34;F;Morada da Montanh;a 20/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+25/abr;Lab. Municipal Arcílio ;56;F;Cidade Alegria;23/abr;Teste rápido sorológico anitcorpos totais positivo. Contactante de ;CONFIRMADO;
+24/abr;Lab. Municipal Arcílio ;34;M;AMAN;24/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+16/abr;Lab. Municipal Arcílio ;3;F;Nova Alegria;15/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+24/abr;Lab. Diagnose;68;F;Comercial;19/abr;IgM positivo / IgG positivo quimioluminescência;CONFIRMADO;
+15/abr;Lab. Municipal Arcílio ;75;F;Santo Amaro;03/abr;Teste rápido sorológico anitcorpos totais positivo.Cuidadora de ;CONFIRMADO;
+30/abr;Lab. Diagnose;75;M;Comercial;23/abr;IgM positivo / IgG positivo quimioluminescência;CONFIRMADO;
+27/abr;Lab. Municipal Arcílio ;43;M;Santo Amaro;sem sint;Teste rápido sorológico anitcorpos totais positivo, genro da paciente ;CONFIRMADO;
+28/abr;Lab. Municipal Arcílio ;91;F;Vila Isabel;15/mar;Teste rápido sorológico anitcorpos ;CONFIRMADO;
+;;;;;;totais positivo.Esposa de paciente ;;
+;Lab. Municipal Arcílio ;59;M;Jardim Brasília;17/abr;anitcorpos totais positivo, marido de Lívia Trindade Ritter ;CONFIRMADO;
+;Lab. Municipal Arcílio ;83;F;Liberdade;sem sint;Teste rápido sorológico anitcorpos ;CONFIRMADO;
+;;;;;;totais positivo.Esposa de paciente ;;
+;Lab. Diagnose;27;F;;;Teste rapido IgM negativo IGG positivo;CONFIRMADO;
+;Lab. Diagnose;34;M;;;Teste rapido IgM negativo IGG positivo;CONFIRMADO;
+;Lab. Diagnose;54;M;;;Teste rapido IgM negativo IGG positivo;CONFIRMADO;
+06/mai;Lab. Diagnose;23;;;;IgM positivo / IgG positivo ;CONFIRMADO;
+06/mai;Lab. Diagnose;21;;;;IgM positivo / IgG positivo ;CONFIRMADO;
+06/mai;Lab. Municipal Arcílio ;1;F;Cidade Alegria;17/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+06/mai;Lab. Municipal Arcílio ;67;M;Campos Elíseos;13/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+07/mai;;;;;;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+07/mai;Lab. Municipal Arcílio ;25;F;Sto Amaro;25/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+08/mai;Lab. Municipal Arcílio ;56;M;Cidade Alegria;11/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+08/mai;Lab. Municipal Arcílio ;31;F;Monte Castelo;24/abr;Teste rápido sorológico anitcorpos totais positivo.;CONFIRMADO;
+08/mai;Unimed VR;32;F;Barra do Piaí;12/abr;Teste rápido sorológico anitcorpos totais positivo.;;

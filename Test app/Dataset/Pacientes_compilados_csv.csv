@@ -1,0 +1,74 @@
+N paciente;Data de início de sintomas;Data de confirmação; Idade; Sexo; Bairro;Cidade;Viagem; Comorbidades; Internação; Morte;Trabalha em Hospital
+2;17/03/2020;19/03/2020;38;F;Jardim Brasília;Resende;N;N;N;;N
+1;13/03/2020;21/03/2020;47;M;Ipanema;RJ;S;N;S;;N
+3;18/03/2020;21/03/2020;38;F;Jardim Jalisco;Resende;N;N;N;;S
+57;13/03/2020;21/03/2020;23;M;AMAN;Resende;;;;;
+5;22/03/2020;26/03/2020;47;M;Morada da Colina;Resende;S ou N;N;S;;N
+6;24/03/2020;30/03/2020;39;M;Vila Julieta;Resende;N;N;S;20/04/2020;N
+7;29/03/2020;30/03/2020;34;M;Santa Barbara;Quatis;N;S;S;;N
+8;30/03/2020;30/03/2020;19;M;Morada do Contorno;Resende;N;N;S;;N
+4;20/03/2020;02/04/2020;59;M;Retiro da Matiqueira;Cruzeiro;S;N;S;;N
+12;04/04/2020;04/04/2020;91;M;Vila Isabel;Resende;N;S;S;13/04/2020;N
+10;31/03/2020;05/04/2020;57;M;Liberdade;Resende;N;N;S;;N
+9;23/03/2020;07/04/2020;45;F;Centro;Quatis;S;S;N;;N
+13;-;12/04/2020;36;M;Centro;Quatis;N;N;N;;N
+11;06/04/2020;13/04/2020;32;M;Vila Odete;Itatiaia;S;N;N;;S
+14;10/04/2020;13/04/2020;28;M;Morada do Castelo;Resende;S;N;N;;S
+20;13/04/2020;13/04/2020;97;F;Vila Moderna;Resende;N;S;S;20/04/2020;N
+22;09/04/2020;13/04/2020;9;F;Jardim Esperança;Resende;N;;;;
+17;11/04/2020;14/04/2020;85;M;Liberdade;Resende;N;N;S;;N
+19;14/04/2020;14/04/2020;86;F;Jardim Primavera;Resende;N;S;S;18/04/2020;N
+21;08/04/2020;14/04/2020;62;F;Vila Zulmira;São João do Meriti;S;;S;;
+38;11/04/2020;15/04/2020;30;F;Jardim Primavera III;Resende;N;;;;
+15;14/04/2020;16/04/2020;44;F;Jardim Brasília;Resende;N;N;N;;S
+16;15/03/2020;16/04/2020;46;F;Campos Elíseos;Resende;S;N;N;;S
+18;08/04/2020;18/04/2020;29;F;Novo Surubi;Resende;N;N;N;;S
+39;13/04/2020;18/04/2020;27;M;Jardim Esperança;Resende;N;;;;
+23;12/04/2020;21/04/2020;56;M;Campos Elíseos;Resende;N;;;;
+24;21/04/2020;22/04/2020;77;F;Paraíso;Resende;N;S;S;;N
+25;22/04/2020;23/04/2020;22;M;AMAN;Resende;N;;;;
+26;22/04/2020;23/04/2020;21;M;AMAN;Resende;N;;;;
+47;13/04/2020;23/04/2020;66;F;Paraíso;Resende;N;;;;
+27;19/04/2020;24/04/2020;21;M;AMAN;Resende;N;;;;
+28;19/04/2020;24/04/2020;20;M;AMAN;Resende;N;;;;
+29;15/04/2020;24/04/2020;21;F;AMAN;Resende;N;;;;
+30;22/04/2020;24/04/2020;21;M;AMAN;Resende;N;;;;
+31;12/04/2020;24/04/2020;21;F;Paraíso;Resende;N;N;N;;S
+32;12/04/2020;24/04/2020;42;M;Baixada da Olaria;Resende;N;;N;;S
+33;17/04/2020;24/04/2020;33;F;Jardim Aliança I;Resende;N;;N;;S
+34;18/04/2020;24/04/2020;22;M;AMAN;Resende;N;;;;
+35;18/04/2020;24/04/2020;19;M;AMAN;Resende;N;;;;
+37;20/04/2020;24/04/2020;50;M;Jardim Independencia;Quatis;N;S;N;;S
+52;21/04/2020;24/04/2020;83;M;Mirante da Serra;Resende;N;;;;
+36;17/04/2020;25/04/2020;62;M;Jardim D'Oeste;Resende;N;;;;N
+40;24/04/2020;25/04/2020;47;M;Terras Alpha;Resende;N;;;;
+55;20/04/2020;25/04/2020;23;M;AMAN;Resende;N;;;;
+56;23/04/2020;25/04/2020;23;M;AMAN;Resende;N;;;;
+60;21/04/2020;25/04/2020;19;F;AMAN;Resende;N;;;;
+43;18/04/2020;26/04/2020;21;M;AMAN;Resende;N;;;;
+46;19/04/2020;26/04/2020;57;M;Vila Pinheiro;Itatiaia;N;;;;
+49;22/04/2020;26/04/2020;22;M;AMAN;Resende;N;;;;
+59;22/04/2020;26/04/2020;19;M;AMAN;Resende;N;;;;
+41;25/04/2020;27/04/2020;68;M;Manejo;Resende;N;;;;
+42;23/04/2020;27/04/2020;36;F;Cidade Alegria;Resende;N;;;;
+44;20/04/2020;27/04/2020;21;M;AMAN;Resende;N;;;;
+48;24/04/2020;27/04/2020;22;M;AMAN;Resende;N;;;;
+50;26/04/2020;27/04/2020;20;F;AMAN;Resende;N;;;;
+53;26/04/2020;27/04/2020;42;F;Cidade Alegria;Resende;N;;;;
+54;25/04/2020;27/04/2020;23;M;AMAN;Resende;N;;;;
+58;23/04/2020;27/04/2020;50;M ;AMAN;Resende;N;;;;
+;;27/04/2020;23;M;AMAN;Resende;;;;;
+;;27/04/2020;50;M ;AMAN;Resende;;;;;
+45;27/04/2020;28/04/2020;21;M;AMAN;Resende;N;;;;
+51;24/04/2020;28/04/2020;20;M;AMAN;Resende;N;;;;
+;;28/04/2020;21;M;AMAN;Resende;;;;;
+;;02/05/2020;21;F;AMAN;Resende;;;;;
+;;02/05/2020;25;M;AMAN;Resende;;;;;
+;;02/05/2020;22;M;AMAN;Resende;;;;;
+;;03/05/2020;23;M;AMAN;Resende;;;;;
+;;03/05/2020;54;F;Paraíso;Resende;;;;07/05/2020;
+;;03/05/2020;23;M;AMAN;Resende;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
